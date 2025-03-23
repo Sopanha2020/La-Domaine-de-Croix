@@ -25,4 +25,4 @@ L'objectif sera de faire une présentation de l'analyse du marché, et du prix q
 ![Image](https://github.com/user-attachments/assets/793c821d-c3a7-4f17-8cdc-4347016dd314)
 
 ## ✨ Présentation au format PDF :
-[présentation_toys_and_models.pdf](https://github.com/Sopanha2020/La-Domaine-de-Croix/blob/main/Presentation/Pr%C3%A9sentation.pdf) 
+[Présentation d'Étude de Marché de Vin.pdf](https://github.com/Sopanha2020/La-Domaine-de-Croix/blob/main/Presentation/Pr%C3%A9sentation.pdf) 
