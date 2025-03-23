@@ -1,6 +1,6 @@
 # 📊📈📉📊 La Domaine de Croix
 
-Le client, le Domaine des Croix, cherche à se lancer sur le marché américain . Il souhaite donc définir le prix de ses bouteilles de vin pour être compétitif sur le marché américain. Il a récupéré un jeu de données de 112k bouteilles de vin, avec les cépages, les pays et région de production, les millésimes (c'est-à-dire les années de production), ainsi que des notes ("points") et descriptifs d'oenologues (les spécialistes du vin), et le prix moyen en dollars de toutes ces bouteilles sur le marché américain.
+Le client, le Domaine des Croix, cherche à se lancer sur le marché américain . Il souhaite donc définir le prix de ses bouteilles de vin pour être compétitif sur le marché américain. Il a récupéré un jeu de données de 112k bouteilles de vin, avec les cépages, les pays et région de production, ainsi que des notes ("points") et descriptifs d'oenologues (les spécialistes du vin), et le prix moyen en dollars de toutes ces bouteilles sur le marché américain.
 
 ## 🎯 Objectifs du Business Case:
 
