@@ -4,7 +4,7 @@ Le client, le Domaine des Croix, cherche à se lancer sur le marché américain 
 
 ## 🎯 Objectifs du Business Case:
 
-L'objectif sera de faire une présentation de l'analyse du marché, et du prix que vous conseillez de fixer pour les vins du client.** Le client n'est pas data analyst, mais souhaiterait comprendre la démarche. Il faudra donc s'attacher à expliquer comment les prix ont été fixés, sans rentrer dans un trop grand niveau technique, autrement dit : vulgariser.
+L'objectif sera de faire une présentation de l'analyse du marché, et du prix que vous conseillez de fixer pour les vins du client. Le client n'est pas data analyst, mais souhaiterait comprendre la démarche. Il faudra donc s'attacher à expliquer comment les prix ont été fixés, sans rentrer dans un trop grand niveau technique, autrement dit : vulgariser.
 
   ✅ Effectuer une analyse basée sur les données <br>
   ✅ Présenter des visualisations pertinentes <br>
